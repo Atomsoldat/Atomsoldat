@@ -1,1 +1,12 @@
-I maintain a GitOps based Kubernetes cluster on my own servers, so if that is interesting to you, [take a look](https://github.com/orgs/MausoleumManagement/repositories).
+Thanks for stopping by, this is one little part of my digital garden. Let's see what's going to grow here!
+
+## Things I Like
+- Tabletop RPGs
+- Beer
+- Spekulatius
+- FOSS
+
+
+ ## What I spend my time on
+ - [Selfhosting Kubernetes](https://github.com/orgs/MausoleumManagement)
+ - Experimenting with Programming Languages
